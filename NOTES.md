@@ -47,3 +47,70 @@ SLM(Small Language Model)
 
 > https://genai.owasp.org/
 
+> https://atlas.mitre.org
+
+> https://attack.mitre.org
+
+
+## Understanding Prompt Injection & Insecure Output Handling
+
+
+> https://github.com/prompt-security/ps-fuzz
+> https://github.com/controllability/jailbreak-evaluation
+
+### Using ChatML for OpenAI API Calls to indicate to the LLM the Source of Prompt Input
+
+
+#### System Prompts
+
+> langsmith
+> smith.langchain.com
+
+> langchain hub
+
+> Meta Prompt Extraction
+
+> https://www.robustintelligence.com/
+
+> Toxicity(毒性)
+
+#### Enforcing Privilege Control on LLM Access to Backend Systems
+
++ ABAC
++ RBAC
+
+### Best Practice Around API Security
+
+
+> ASVS(Application Security Verification Standard)
+
+> https://github.com/OWASP/ASVS
+
++ ASVS
++ Token rotation
++ Good crypto
++ MOnitoring And Auditting
+
+#### How to secure API Tokens
+
+### Insecure Output Handling Attacks
+
+Use Secure Vaults, Avoid Hardcoding
+
+
+
+> ZTA(Zero Trust Archtecture)
+
+## Training Data Poisoning, Model Denial of Service & Supply Chain Vulnerabilities
+
+>https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/
+
+### Inventory
+
+> SPDX
+> CycloneDX
+> SBDM
+> AI BOM
+
+
+
